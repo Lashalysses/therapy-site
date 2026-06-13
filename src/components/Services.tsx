@@ -100,8 +100,10 @@ const trainingPrograms = [
         <path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347M4.26 10.147a59.872 59.872 0 0114.752 0M4.26 10.147L12 4.5l7.74 5.647" />
       </svg>
     ),
-    title: "Integrative Couples & Family Therapy",
+    title: "Advanced Post-Graduate Training in Integrative Couples & Family Therapy",
     duration: "100 Hours (50h Direct Learning | 50h Independent Study)",
+    description:
+      "This comprehensive 100-hour professional development program offers clinicians a unified, deeply practical roadmap for navigating complex relationship and family dynamics. The program begins with rigorous multi-systemic assessment, teaching intake processes using evidence-based tools like the Oral History Interview and Sound Relationship House scales. It weaves together the Gottman Method with Emotionally Focused Therapy (EFT), CBT for Couples, Bowenian family systems theory, and schema-focused approaches — enabling practitioners to restructure unhelpful cognitive patterns and guide couples from defensive gridlock into a shared, resilient life legacy.",
     pillars: [
       "Gottman Method Interventions",
       "Emotionally Focused Therapy (EFT)",
@@ -117,8 +119,10 @@ const trainingPrograms = [
         <path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347M4.26 10.147a59.872 59.872 0 0114.752 0M4.26 10.147L12 4.5l7.74 5.647" />
       </svg>
     ),
-    title: "Integrative Counseling and Psychotherapy",
+    title: "Postgraduate Certification in Integrative Counseling & Psychotherapy",
     duration: "160 Hours (80h Direct Learning | 80h Independent Study)",
+    description:
+      "Designed for mental health specialists aiming to move beyond single-school silos, this elite 160-hour certification establishes a highly flexible, responsive, and client-centered clinical framework. It traces the entire evolution of psychotherapy integration, emphasizing the working alliance and relational attunement. The program merges structured CBT with present-moment Gestalt awareness and Existential meaning-making, concluding with advanced cross-diagnostic psychopathology under DSM-5-TR and ICD-11 frameworks.",
     pillars: [
       "Common Factors",
       "Cross-Cultural Competencies",
@@ -137,6 +141,8 @@ const trainingPrograms = [
     ),
     title: "Advanced Diploma in Schema Therapy",
     duration: "100 Hours (50h Direct Learning | 50h Independent Study)",
+    description:
+      "This advanced 100-hour clinical diploma provides senior psychotherapists and clinical psychologists with deep-level competency in treating chronic personality pathology, longstanding attachment wounds, and complex trauma. The curriculum guides participants through a profound shift into the Schema Mode Model, covering Maladaptive Schema Domains, Child and Dysfunctional Parent modes, and transformative interventions including Imagery Rescripting, Somatic Schema processing, and advanced Chair Work. Includes clinical adaptations for Borderline and Narcissistic personality disorders, forensic contexts, and couples work.",
     pillars: [
       "Core Emotional Needs",
       "Maladaptive Schema Domains",
@@ -154,8 +160,10 @@ const trainingPrograms = [
         <path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347M4.26 10.147a59.872 59.872 0 0114.752 0M4.26 10.147L12 4.5l7.74 5.647" />
       </svg>
     ),
-    title: "Solution-Focused Brief Therapy (SFBT)",
+    title: "Professional Specialization in Solution-Focused Brief Therapy (SFBT)",
     duration: "104 Hours (52h Direct Learning | 52h Independent Study)",
+    description:
+      "This dynamic 104-hour certification is tailored for practitioners, social workers, and executive coaches requiring rapid, strengths-based, and collaborative short-term intervention protocols. It completely flips the traditional problem-centered focus toward a future-focused, solution-building paradigm. Participants master the Miracle Question, exception-finding, and motivational scaling, with specialized modules on pediatric adaptations, brief group facilitation, crisis intervention, and the integration of Solution-Focused Brief Therapy with expressive Art Therapy.",
     pillars: [
       "Future-Focused Language",
       "The Miracle Question",
@@ -172,8 +180,10 @@ const trainingPrograms = [
         <path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347M4.26 10.147a59.872 59.872 0 0114.752 0M4.26 10.147L12 4.5l7.74 5.647" />
       </svg>
     ),
-    title: "Certificate in Sport Psychology",
+    title: "Professional Certificate in Applied Sport Psychology",
     duration: "80 Hours (40h Direct Learning | 40h Independent Study)",
+    description:
+      "This premier 80-hour program is designed for sports psychologists, performance coaches, and clinical consultants mastering the intersection of athletic performance and psychological well-being. Built from motivation and behavioral foundations, it advances into Mental Skills Training, performance profiling, elite sensory imagery, and arousal regulation. The program analyzes peak performance through Individual Zones of Optimal Functioning (IZOF) and Catastrophe Theory, while also addressing athlete burnout, injury neuro-rehabilitation, and psychiatric health in professional sports.",
     pillars: [
       "Psychological Skills Training (PST)",
       "Performance Profiling",
@@ -281,6 +291,9 @@ export default function Services() {
                 <p className="text-xs text-ink-muted mb-4">
                   <span className="font-medium text-ink">Duration:</span>{" "}
                   {program.duration}
+                </p>
+                <p className="text-ink-muted text-sm leading-relaxed mb-4">
+                  {program.description}
                 </p>
                 <div className="mb-4 flex-1">
                   <p className="text-xs text-ink-muted leading-relaxed">
