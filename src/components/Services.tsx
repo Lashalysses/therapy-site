@@ -100,16 +100,10 @@ const trainingPrograms = [
         <path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347M4.26 10.147a59.872 59.872 0 0114.752 0M4.26 10.147L12 4.5l7.74 5.647" />
       </svg>
     ),
-    title: "Advanced Post-Graduate Training in Integrative Couples & Family Therapy",
+    title: "Integrative Couples & Family Therapy",
     duration: "100 Hours (50h Direct Learning | 50h Independent Study)",
     description:
-      "This comprehensive 100-hour professional development program offers clinicians a unified, deeply practical roadmap for navigating complex relationship and family dynamics. The program begins with rigorous multi-systemic assessment, teaching intake processes using evidence-based tools like the Oral History Interview and Sound Relationship House scales. It weaves together the Gottman Method with Emotionally Focused Therapy (EFT), CBT for Couples, Bowenian family systems theory, and schema-focused approaches — enabling practitioners to restructure unhelpful cognitive patterns and guide couples from defensive gridlock into a shared, resilient life legacy.",
-    pillars: [
-      "Gottman Method Interventions",
-      "Emotionally Focused Therapy (EFT)",
-      "Schema Coping Styles in Relationships",
-      "Bowen Family Systems",
-    ],
+      "This comprehensive 100-hour professional development program offers clinicians a unified, deeply practical roadmap for navigating complex relationship and family dynamics. Delivered through a sophisticated hybrid format, the curriculum seamlessly balances 50 hours of advanced on-demand video instruction with 50 hours of intensive independent study, clinical reading, case analysis, and reflective assignments. The program begins with a rigorous focus on multi-systemic assessment, teaching participants how to structure intake processes using evidence-based tools like the Oral History Interview, behavioral conflict assessments, and the Sound Relationship House scales, while screening for critical co-morbidities and physiological flooding. From this diagnostic baseline, the narrative shifts into powerful intervention frameworks, directly weaving together the core communication principles of the Gottman Method with the deep attachment-restructuring techniques of Emotionally Focused Therapy (EFT). Crucially, the training integrates Cognitive Behavioral Therapy (CBT) for Couples, equipping clinicians with the tools to target and modify maladaptive relationship attributions, cognitive selective attention biases, and unrealistic relationship standards that fuel distress. To ensure true clinical mastery, the training further integrates family systems theory—specifically Bowenian differentiation and triangulation dynamics—alongside schema-focused and acceptance approaches. This enables practitioners to look past surface conflicts, restructure unhelpful cognitive patterns, uncover hidden vulnerabilities or coping styles, and effectively guide couples from defensive gridlock into a shared, resilient life legacy.",
     bestFor:
       "Clinicians wanting a unified, practical roadmap to navigate complex relationship and family dynamics.",
   },
@@ -119,17 +113,10 @@ const trainingPrograms = [
         <path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347M4.26 10.147a59.872 59.872 0 0114.752 0M4.26 10.147L12 4.5l7.74 5.647" />
       </svg>
     ),
-    title: "Postgraduate Certification in Integrative Counseling & Psychotherapy",
+    title: "Integrative Counseling & Psychotherapy",
     duration: "160 Hours (80h Direct Learning | 80h Independent Study)",
     description:
-      "Designed for mental health specialists aiming to move beyond single-school silos, this elite 160-hour certification establishes a highly flexible, responsive, and client-centered clinical framework. It traces the entire evolution of psychotherapy integration, emphasizing the working alliance and relational attunement. The program merges structured CBT with present-moment Gestalt awareness and Existential meaning-making, concluding with advanced cross-diagnostic psychopathology under DSM-5-TR and ICD-11 frameworks.",
-    pillars: [
-      "Common Factors",
-      "Cross-Cultural Competencies",
-      "CBT Integration",
-      "Gestalt/Existential Dimensions",
-      "Cross-Diagnostic Psychopathology (DSM-5-TR/ICD-11)",
-    ],
+      "Designed for mental health specialists aiming to move beyond single-school silos, this elite 160-hour certification establishes a highly flexible, responsive, and client-centered clinical framework. The program requires a committed balance of 80 hours of direct instructional learning and 80 hours of independent practitioner skills practice, reflective journaling, and comprehensive case conceptualization. The training traces the entire evolution of psychotherapy integration, emphasizing the absolute primacy of the working alliance, relational attunement, and the real person-to-person encounter. It places a heavy emphasis on modern clinical realities by equipping practitioners with vital cross-cultural competencies, balancing Eastern and Western worldviews, and addressing issues of privilege and historical trauma within systemic family dynamics. The core therapeutic engine of this program is a sophisticated technical synthesis that comprehensively includes and covers all major approaches of counseling and psychotherapy. The curriculum uniquely concludes with an immersive dive into advanced cross-diagnostic psychopathology under the DSM-5-TR and ICD-11 frameworks, ensuring graduates can synthesize diagnostic labels, attachment patterns, and solution-focused interventions into an authoritative, master-level case formulation.",
     bestFor:
       "Practitioners aiming to move beyond single-school silos into a flexible, client-centered framework.",
   },
@@ -139,18 +126,10 @@ const trainingPrograms = [
         <path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347M4.26 10.147a59.872 59.872 0 0114.752 0M4.26 10.147L12 4.5l7.74 5.647" />
       </svg>
     ),
-    title: "Advanced Diploma in Schema Therapy",
+    title: "Schema Therapy",
     duration: "100 Hours (50h Direct Learning | 50h Independent Study)",
     description:
-      "This advanced 100-hour clinical diploma provides senior psychotherapists and clinical psychologists with deep-level competency in treating chronic personality pathology, longstanding attachment wounds, and complex trauma. The curriculum guides participants through a profound shift into the Schema Mode Model, covering Maladaptive Schema Domains, Child and Dysfunctional Parent modes, and transformative interventions including Imagery Rescripting, Somatic Schema processing, and advanced Chair Work. Includes clinical adaptations for Borderline and Narcissistic personality disorders, forensic contexts, and couples work.",
-    pillars: [
-      "Core Emotional Needs",
-      "Maladaptive Schema Domains",
-      "4-Mode Model",
-      "Imagery Rescripting",
-      "Chair Work Mastery",
-      "Limited Reparenting",
-    ],
+      "This advanced 100-hour clinical program provides senior psychotherapists, clinical psychologists, and psychiatrists with deep-level competency in treating chronic personality pathology, longstanding attachment wounds, and complex trauma. Spanning 50 hours of direct clinical instruction and 50 hours of experiential practicum work, the curriculum guides participants through a profound shift from traditional cognitive behavioral structures into the depth of the Schema Mode Model. The training establishes a comprehensive understanding of how early unmet emotional needs give rise to Maladaptive Schema Domains and rigid coping styles such as surrender, avoidance, and overcompensation. Therapists will learn to map out complex internal topographies involving Child modes, Dysfunctional Parent modes, and Maladaptive Coping modes while cultivating the client's Healthy Adult development. The experiential core focuses on high-impact interventions including Imagery Rescripting, Somatic Schema processing, and advanced Chair Work architectures, with clinical adaptations for Borderline and Narcissistic personality disorders, forensic contexts, eating disorders, and couples work.",
     bestFor:
       "Mental health specialists seeking deep clinical competency in treating longstanding personality pathology and complex trauma.",
   },
@@ -160,17 +139,10 @@ const trainingPrograms = [
         <path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347M4.26 10.147a59.872 59.872 0 0114.752 0M4.26 10.147L12 4.5l7.74 5.647" />
       </svg>
     ),
-    title: "Professional Specialization in Solution-Focused Brief Therapy (SFBT)",
+    title: "Solution-Focused Brief Therapy (SFBT)",
     duration: "104 Hours (52h Direct Learning | 52h Independent Study)",
     description:
-      "This dynamic 104-hour certification is tailored for practitioners, social workers, and executive coaches requiring rapid, strengths-based, and collaborative short-term intervention protocols. It completely flips the traditional problem-centered focus toward a future-focused, solution-building paradigm. Participants master the Miracle Question, exception-finding, and motivational scaling, with specialized modules on pediatric adaptations, brief group facilitation, crisis intervention, and the integration of Solution-Focused Brief Therapy with expressive Art Therapy.",
-    pillars: [
-      "Future-Focused Language",
-      "The Miracle Question",
-      "Scaling Activities",
-      "SFBT for Children",
-      "Solution-Focused Art Therapy",
-    ],
+      "This dynamic 104-hour professional certification is tailored for practitioners, social workers, and executive coaches who require rapid, empirical, strengths-based, and highly collaborative short-term intervention protocols. Structured around 52 hours of direct learning and 52 hours of applied clinical portfolio work, the narrative completely flips the traditional problem-centered therapeutic focus toward a future-focused, solution-building paradigm. Participants will master the elegant micro-analysis of language, learning to negotiate best hopes and co-construct preferred futures through the strategic use of the Miracle Question, constructive listening, exception-finding, and motivational scaling metrics. A unique highlight is its specialized developmental and creative expansions: dedicated pediatric and youth adaptations, solution-focused play, brief group facilitation, crisis intervention, and the integration of Solution-Focused Brief Therapy with expressive Art Therapy.",
     bestFor:
       "Professionals looking for rapid, strengths-based, and highly collaborative intervention skills.",
   },
@@ -180,17 +152,10 @@ const trainingPrograms = [
         <path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347M4.26 10.147a59.872 59.872 0 0114.752 0M4.26 10.147L12 4.5l7.74 5.647" />
       </svg>
     ),
-    title: "Professional Certificate in Applied Sport Psychology",
+    title: "Sport Psychology",
     duration: "80 Hours (40h Direct Learning | 40h Independent Study)",
     description:
-      "This premier 80-hour program is designed for sports psychologists, performance coaches, and clinical consultants mastering the intersection of athletic performance and psychological well-being. Built from motivation and behavioral foundations, it advances into Mental Skills Training, performance profiling, elite sensory imagery, and arousal regulation. The program analyzes peak performance through Individual Zones of Optimal Functioning (IZOF) and Catastrophe Theory, while also addressing athlete burnout, injury neuro-rehabilitation, and psychiatric health in professional sports.",
-    pillars: [
-      "Psychological Skills Training (PST)",
-      "Performance Profiling",
-      "IZOF Theory",
-      "Arousal Regulation",
-      "Athlete Burnout/Injury Rehabilitation",
-    ],
+      "This premier 80-hour professional program is meticulously designed for sports psychologists, performance coaches, and clinical consultants aiming to master the intersection of athletic performance and psychological well-being. Comprising 40 hours of direct, science-based video instruction and 40 hours of applied independent performance profiling, the training positions the mind as the ultimate competitive training ground. The curriculum builds from solid motivation and behavioral foundations—exploring self-determination, achievement goals, and self-efficacy theories—before moving into advanced Mental Skills Training (PST). Practitioners will learn to design high-impact performance profiles, teach elite sensory imagery, cognitive restructuring, and tactical arousal regulation. The program analyzes peak performance through Individual Zones of Optimal Functioning (IZOF) and Catastrophe Theory, while offering comprehensive frameworks for athlete burnout, injury neuro-rehabilitation, and psychiatric health in professional sports.",
     bestFor:
       "Coaches, practitioners, and psychologists aiming to build mental toughness and master peak performance states.",
   },
@@ -292,15 +257,9 @@ export default function Services() {
                   <span className="font-medium text-ink">Duration:</span>{" "}
                   {program.duration}
                 </p>
-                <p className="text-ink-muted text-sm leading-relaxed mb-4">
+                <p className="text-ink-muted text-sm leading-relaxed mb-4 flex-1">
                   {program.description}
                 </p>
-                <div className="mb-4 flex-1">
-                  <p className="text-xs text-ink-muted leading-relaxed">
-                    <span className="font-medium text-ink">Core Pillars:</span>{" "}
-                    {program.pillars.join(", ")}
-                  </p>
-                </div>
                 <div className="pt-4 border-t border-warm-border">
                   <p className="text-xs text-ink-muted mb-4">
                     <span className="font-medium text-ink">Best For:</span>{" "}
