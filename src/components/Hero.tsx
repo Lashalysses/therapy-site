@@ -25,19 +25,21 @@ export default function Hero() {
           </p>
           <h1 className="font-serif text-5xl sm:text-6xl lg:text-7xl text-white font-light leading-tight mb-6">
             A Safe Space to Heal,{" "}
-            <span className="italic">Grow,</span> and Thrive
+            <span className="italic">Grow,</span> and Learn
           </h1>
           <p className="text-white/75 text-lg leading-relaxed mb-10 max-w-xl font-sans">
-            Compassionate, evidence-based therapy tailored to who you are and
-            what you need. Taking the first step is the hardest part — I&apos;m
-            here to make it a little easier.
+            Access compassionate, evidence-based therapy and professional
+            development designed for individuals and mental health
+            specialists. Whether you&apos;re seeking personal healing or
+            advanced skill-building, taking the first step is the hardest
+            part — I&apos;m here to make it a little easier.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <a
               href="#contact"
               className="inline-flex items-center justify-center bg-teal hover:bg-teal-dark text-white font-semibold px-8 py-4 rounded text-sm tracking-wide transition-colors"
             >
-              Book a Free Consultation
+              Schedule a Therapy Consultation
             </a>
             <a
               href="#services"

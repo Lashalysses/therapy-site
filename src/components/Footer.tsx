@@ -71,7 +71,7 @@ export default function Footer() {
                   href="#contact"
                   className="inline-flex items-center bg-teal hover:bg-teal-dark text-white text-xs font-semibold px-4 py-2 rounded transition-colors"
                 >
-                  Book a Consultation
+                  Schedule a Therapy Consultation
                 </a>
               </li>
             </ul>

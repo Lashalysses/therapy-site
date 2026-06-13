@@ -67,7 +67,7 @@ export default function Navigation() {
             href="#contact"
             className="hidden md:inline-flex items-center text-sm font-semibold bg-teal hover:bg-teal-dark text-white px-5 py-2.5 rounded transition-colors"
           >
-            Book a Consultation
+            Schedule a Therapy Consultation
           </a>
 
           {/* Mobile hamburger */}
@@ -131,7 +131,7 @@ export default function Navigation() {
               onClick={handleLinkClick}
               className="mt-3 text-center font-semibold bg-teal hover:bg-teal-dark text-white px-5 py-3 rounded transition-colors"
             >
-              Book a Free Consultation
+              Schedule a Therapy Consultation
             </a>
           </nav>
         </div>

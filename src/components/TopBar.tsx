@@ -20,7 +20,7 @@ export default function TopBar() {
           href="#contact"
           className="text-xs font-medium bg-teal hover:bg-teal-dark text-white px-4 py-1.5 rounded transition-colors hidden sm:block"
         >
-          Book a Free Consultation
+          Schedule a Therapy Consultation
         </a>
       </div>
     </div>
