@@ -283,17 +283,10 @@ export default function Services() {
                   {program.duration}
                 </p>
                 <div className="mb-4 flex-1">
-                  <p className="text-xs font-medium text-ink mb-2">Core Pillars:</p>
-                  <ul className="flex flex-wrap gap-1.5">
-                    {program.pillars.map((pillar) => (
-                      <li
-                        key={pillar}
-                        className="text-xs text-ink-muted bg-cream-alt border border-warm-border rounded-full px-3 py-1"
-                      >
-                        {pillar}
-                      </li>
-                    ))}
-                  </ul>
+                  <p className="text-xs text-ink-muted leading-relaxed">
+                    <span className="font-medium text-ink">Core Pillars:</span>{" "}
+                    {program.pillars.join(", ")}
+                  </p>
                 </div>
                 <div className="pt-4 border-t border-warm-border">
                   <p className="text-xs text-ink-muted mb-4">
