@@ -5,7 +5,7 @@ import TrustStrip from "@/components/TrustStrip";
 import About from "@/components/About";
 import Services from "@/components/Services";
 import HowItWorks from "@/components/HowItWorks";
-import FAQ from "@/components/FAQ";
+// import FAQ from "@/components/FAQ";
 import ContactForm from "@/components/ContactForm";
 import Footer from "@/components/Footer";
 
@@ -20,7 +20,7 @@ export default function Home() {
         <About />
         <Services />
         <HowItWorks />
-        <FAQ />
+        {/* <FAQ /> */}
         <ContactForm />
       </main>
       <Footer />

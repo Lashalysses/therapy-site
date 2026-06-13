@@ -7,12 +7,6 @@ const steps = [
   },
   {
     number: "02",
-    title: "Free Consultation",
-    description:
-      "We will have a brief, no-obligation call to understand what brings you here, answer any questions you have, and explore whether we are a good fit for working together.",
-  },
-  {
-    number: "03",
     title: "Begin Your Journey",
     description:
       "Together, we create a personalised plan that works for your life, schedule, and goals. Sessions are available in-person and online at a pace that suits you.",
